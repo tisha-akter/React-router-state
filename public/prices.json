@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 50.00,
+      "features": [
+        "Regular hours access",
+        "Locker room access",
+        "Discounted training"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 75.00,
+      "features": [
+        "Extended hours access",
+        "Locker room access",
+        "10% off training",
+        "Fitness assessment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": 125.00,
+      "features": [
+        "Extended hours access",
+        "Locker room access",
+        "Unlimited training",
+        "Group classes"
+      ]
+    }
+  ]
+  
